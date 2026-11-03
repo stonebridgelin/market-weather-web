@@ -1,0 +1,32 @@
+{
+ "T0": "2026-11-02",
+ "contract": "t03-contract-1",
+ "frontend_sha256": "84b91a5dbe38bcc276bca189b8d40027dce26d6a5b40cc6b9e8318c2ac11e3fa",
+ "generated_at_et": "2026-11-02T21:12:25-05:00",
+ "generator_sha256": "67d2530fd33e3ff0e8db67ffebcd02ac7a070b36b52a5e11b6d8751c24f5f392",
+ "input_fingerprint": {
+  "ledger": [
+   313,
+   "94c4f1774d4c6f03f818cb37f38d3bc30603749548e5f45925ca24acd48fb46d"
+  ],
+  "params": [
+   4047,
+   "7c20cbfdaf06cbf1ebf5f2dbd8775daf9fbe4b7d2bf3a5ebdb3d16f33a369485"
+  ],
+  "payloads": [
+   3526,
+   "ba21b3a46f5b25ecbb3472d0478c026a88070f4bebd7e0011e7037db533adbbb"
+  ],
+  "receipts": [
+   456,
+   "e53c7889403a82e059d1e140bfa43171478a7facbccc0c2db20a5c97e4e4dc4a"
+  ]
+ },
+ "last_payload_hash": "ac66bac470758f8030b6868b90e44c0b368de7042323df3ca64308fe030a3c09",
+ "latest_record_date": "2026-11-02",
+ "ledger_rows_published": 1,
+ "payload_lines": 1,
+ "phase": "not_before_T0",
+ "prefix_end_date": "2026-11-02",
+ "version": "fa8c9b628290f06bfd20ba07a1e0d6ba5c469542b664d5c7a188a83016f247cd"
+}

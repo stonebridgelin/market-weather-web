@@ -1,0 +1,33 @@
+{
+ "contract": "t03-contract-1",
+ "note": "本机台账白名单投影；不在存证范围内",
+ "rows": [
+  {
+   "SM1_counter": 0,
+   "SM1_event": "",
+   "SM1_state": 0,
+   "SM2_counter": 0,
+   "SM2_event": "",
+   "SM2_state": 0,
+   "SM3_counter": 0,
+   "SM3_event": "",
+   "SM3_state": 0,
+   "SM4_angles": [
+    "0",
+    "0",
+    "1",
+    "0",
+    "0"
+   ],
+   "SM4_counter": 0,
+   "SM4_event": "",
+   "SM4_n_available": 5,
+   "SM4_n_good": 1,
+   "SM4_state": 0,
+   "date": "2026-11-02",
+   "on_time_local": true,
+   "payload_hash": "ac66bac470758f8030b6868b90e44c0b368de7042323df3ca64308fe030a3c09"
+  }
+ ],
+ "version": "fa8c9b628290f06bfd20ba07a1e0d6ba5c469542b664d5c7a188a83016f247cd"
+}

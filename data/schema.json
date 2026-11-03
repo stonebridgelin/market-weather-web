@@ -1,0 +1,313 @@
+{
+ "contract": "t03-contract-1",
+ "fields": {
+  "L1": {
+   "nullable": true,
+   "path": "L1",
+   "source": "payload",
+   "type": "0|1|null"
+  },
+  "L2": {
+   "nullable": true,
+   "path": "L2",
+   "source": "payload",
+   "type": "0|1|null"
+  },
+  "L3": {
+   "nullable": true,
+   "path": "L3",
+   "source": "payload",
+   "type": "0|1|null"
+  },
+  "L4": {
+   "nullable": true,
+   "path": "L4",
+   "source": "payload",
+   "type": "0|1|null"
+  },
+  "L5": {
+   "nullable": true,
+   "path": "L5",
+   "source": "payload",
+   "type": "0|1|null"
+  },
+  "PU": {
+   "nullable": true,
+   "path": "PU",
+   "source": "payload",
+   "type": "0|1|null"
+  },
+  "PU_B": {
+   "nullable": true,
+   "path": "PU_B",
+   "source": "payload",
+   "type": "0|1|null"
+  },
+  "S1": {
+   "nullable": true,
+   "path": "S1",
+   "source": "payload",
+   "type": "0|1|null"
+  },
+  "SM1_counter": {
+   "column": "SM1_counter",
+   "note": "前缀外（ledger_pending=true）为 null；event 空字符串 = 当日无转换",
+   "nullable": true,
+   "source": "ledger",
+   "type": "integer|null"
+  },
+  "SM1_event": {
+   "column": "SM1_event",
+   "note": "前缀外（ledger_pending=true）为 null；event 空字符串 = 当日无转换",
+   "nullable": true,
+   "source": "ledger",
+   "type": "string|null（'' = 无转换）"
+  },
+  "SM1_state": {
+   "column": "SM1_state",
+   "note": "前缀外（ledger_pending=true）为 null；event 空字符串 = 当日无转换",
+   "nullable": true,
+   "source": "ledger",
+   "type": "0|1|null"
+  },
+  "SM2_counter": {
+   "column": "SM2_counter",
+   "note": "前缀外（ledger_pending=true）为 null；event 空字符串 = 当日无转换",
+   "nullable": true,
+   "source": "ledger",
+   "type": "integer|null"
+  },
+  "SM2_event": {
+   "column": "SM2_event",
+   "note": "前缀外（ledger_pending=true）为 null；event 空字符串 = 当日无转换",
+   "nullable": true,
+   "source": "ledger",
+   "type": "string|null（'' = 无转换）"
+  },
+  "SM2_state": {
+   "column": "SM2_state",
+   "note": "前缀外（ledger_pending=true）为 null；event 空字符串 = 当日无转换",
+   "nullable": true,
+   "source": "ledger",
+   "type": "0|1|null"
+  },
+  "SM3_counter": {
+   "column": "SM3_counter",
+   "note": "前缀外（ledger_pending=true）为 null；event 空字符串 = 当日无转换",
+   "nullable": true,
+   "source": "ledger",
+   "type": "integer|null"
+  },
+  "SM3_event": {
+   "column": "SM3_event",
+   "note": "前缀外（ledger_pending=true）为 null；event 空字符串 = 当日无转换",
+   "nullable": true,
+   "source": "ledger",
+   "type": "string|null（'' = 无转换）"
+  },
+  "SM3_state": {
+   "column": "SM3_state",
+   "note": "前缀外（ledger_pending=true）为 null；event 空字符串 = 当日无转换",
+   "nullable": true,
+   "source": "ledger",
+   "type": "0|1|null"
+  },
+  "SM4_angles": {
+   "column": "SM4_angles",
+   "note": "数组，顺序 A1–A5，元素 '1' 好转 / '0' 未好转 / '-' 缺失；台账为空时 null",
+   "nullable": true,
+   "source": "ledger",
+   "type": "array of '1'|'0'|'-' (length 5) | null"
+  },
+  "SM4_counter": {
+   "column": "SM4_counter",
+   "note": "前缀外（ledger_pending=true）为 null；event 空字符串 = 当日无转换",
+   "nullable": true,
+   "source": "ledger",
+   "type": "integer|null"
+  },
+  "SM4_event": {
+   "column": "SM4_event",
+   "note": "前缀外（ledger_pending=true）为 null；event 空字符串 = 当日无转换",
+   "nullable": true,
+   "source": "ledger",
+   "type": "string|null（'' = 无转换）"
+  },
+  "SM4_n_available": {
+   "column": "SM4_n_available",
+   "note": "前缀外（ledger_pending=true）为 null；event 空字符串 = 当日无转换",
+   "nullable": true,
+   "source": "ledger",
+   "type": "integer|null"
+  },
+  "SM4_n_good": {
+   "column": "SM4_n_good",
+   "note": "前缀外（ledger_pending=true）为 null；event 空字符串 = 当日无转换",
+   "nullable": true,
+   "source": "ledger",
+   "type": "integer|null"
+  },
+  "SM4_state": {
+   "column": "SM4_state",
+   "note": "前缀外（ledger_pending=true）为 null；event 空字符串 = 当日无转换",
+   "nullable": true,
+   "source": "ledger",
+   "type": "0|1|null"
+  },
+  "W": {
+   "nullable": true,
+   "path": "W",
+   "source": "payload",
+   "type": "0|1|null"
+  },
+  "W3": {
+   "nullable": true,
+   "path": "W3",
+   "source": "payload",
+   "type": "0|1|null"
+  },
+  "chain_line": {
+   "note": "载荷文件原行号",
+   "source": "technical",
+   "type": "integer"
+  },
+  "clock_freeze": {
+   "nullable": true,
+   "path": "clock_check.freeze.status",
+   "source": "payload",
+   "type": "string|null"
+  },
+  "clock_start": {
+   "nullable": true,
+   "path": "clock_check.start.status",
+   "source": "payload",
+   "type": "string|null"
+  },
+  "date": {
+   "nullable": false,
+   "path": "date",
+   "source": "payload",
+   "type": "date"
+  },
+  "is_backfill": {
+   "nullable": true,
+   "path": "is_backfill",
+   "source": "payload",
+   "type": "boolean|null"
+  },
+  "ledger_pending": {
+   "note": "关联状态：完整前缀内 false，截断点及之后 true",
+   "source": "technical",
+   "type": "boolean"
+  },
+  "links": {
+   "note": "公开仓库 main 分支链接（可变引用）",
+   "source": "technical",
+   "type": "object {payload, day_list, tsa, clock}: url"
+  },
+  "mr_A": {
+   "nullable": true,
+   "path": "mr_A",
+   "source": "payload",
+   "type": "integer|null"
+  },
+  "mr_A_status": {
+   "nullable": true,
+   "path": "mr.A.status",
+   "source": "payload",
+   "type": "string|null"
+  },
+  "mr_B": {
+   "nullable": true,
+   "path": "mr_B",
+   "source": "payload",
+   "type": "integer|null"
+  },
+  "mr_B_status": {
+   "nullable": true,
+   "path": "mr.B.status",
+   "source": "payload",
+   "type": "string|null"
+  },
+  "mr_status": {
+   "nullable": true,
+   "path": "mr.status",
+   "source": "payload",
+   "type": "string|null"
+  },
+  "n_available": {
+   "nullable": true,
+   "path": "n_available",
+   "source": "payload",
+   "type": "integer|null"
+  },
+  "n_lit": {
+   "nullable": true,
+   "path": "n_lit",
+   "source": "payload",
+   "type": "integer|null"
+  },
+  "obs_oas": {
+   "nullable": true,
+   "path": "inputs.oas.observation_date",
+   "source": "payload",
+   "type": "date|null"
+  },
+  "obs_spx": {
+   "nullable": true,
+   "path": "inputs.spx.observation_date",
+   "source": "payload",
+   "type": "date|null"
+  },
+  "obs_vix": {
+   "nullable": true,
+   "path": "inputs.vix.observation_date",
+   "source": "payload",
+   "type": "date|null"
+  },
+  "on_time_local": {
+   "column": "on_time_local",
+   "note": "台账 'True'/'False'/'' → true/false/null；本地预判，网站未核验",
+   "nullable": true,
+   "source": "ledger",
+   "type": "boolean|null"
+  },
+  "payload_hash": {
+   "note": "载荷原行字节（不含换行）的 SHA-256",
+   "source": "technical",
+   "type": "hex64"
+  },
+  "receipts": {
+   "columns": [
+    "tsa",
+    "gen_time",
+    "conservative_time",
+    "valid",
+    "evidence",
+    "tsr_file"
+   ],
+   "note": "各列原样字符串；无行为空数组；不表示按时",
+   "source": "receipts",
+   "type": "array of {tsa: string, gen_time: string, conservative_time: string, valid: string, evidence: string, tsr_file: string}"
+  },
+  "spx_close": {
+   "nullable": true,
+   "path": "spx_close",
+   "source": "payload",
+   "type": "number|null"
+  }
+ },
+ "not_included": "本网站不含表现指标、交易日年龄与 T_R/T_M 具体日期",
+ "null_means": "缺失",
+ "roles": {
+  "PU": "描述",
+  "PU_B": "描述",
+  "S1": "对照",
+  "SM": "只报告（解除状态机 SM-1–4）",
+  "W": "唯一按设计可在到期后升级的系统（4 灯降级版）；目前没有任何前瞻成绩",
+  "W3": "描述",
+  "mr_A": "对照（market-risk v2.0 原版 A）",
+  "mr_B": "对照（market-risk v2.0 变体 B）"
+ },
+ "version": "fa8c9b628290f06bfd20ba07a1e0d6ba5c469542b664d5c7a188a83016f247cd"
+}
