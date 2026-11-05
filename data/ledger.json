@@ -27,7 +27,59 @@
    "date": "2026-11-02",
    "on_time_local": true,
    "payload_hash": "ac66bac470758f8030b6868b90e44c0b368de7042323df3ca64308fe030a3c09"
+  },
+  {
+   "SM1_counter": 0,
+   "SM1_event": "",
+   "SM1_state": 0,
+   "SM2_counter": 0,
+   "SM2_event": "",
+   "SM2_state": 0,
+   "SM3_counter": 0,
+   "SM3_event": "",
+   "SM3_state": 0,
+   "SM4_angles": [
+    "0",
+    "0",
+    "-",
+    "-",
+    "-"
+   ],
+   "SM4_counter": 0,
+   "SM4_event": "",
+   "SM4_n_available": 2,
+   "SM4_n_good": 0,
+   "SM4_state": 0,
+   "date": "2026-11-03",
+   "on_time_local": false,
+   "payload_hash": "9aef9794bd51e979e0fcb18bed6cc9484852ea013644cfd761930d3e29066cac"
+  },
+  {
+   "SM1_counter": 0,
+   "SM1_event": "",
+   "SM1_state": 0,
+   "SM2_counter": 0,
+   "SM2_event": "",
+   "SM2_state": 0,
+   "SM3_counter": 0,
+   "SM3_event": "",
+   "SM3_state": 0,
+   "SM4_angles": [
+    "1",
+    "0",
+    "-",
+    "-",
+    "0"
+   ],
+   "SM4_counter": 0,
+   "SM4_event": "",
+   "SM4_n_available": 3,
+   "SM4_n_good": 1,
+   "SM4_state": 0,
+   "date": "2026-11-04",
+   "on_time_local": true,
+   "payload_hash": "aff2ff1968eec7dc6b44f46876e819253c837011469e3917c91c2cdfee33cb1d"
   }
  ],
- "version": "fa388b009fee1e37324b05a51a129466a073888781a623477d17639047eafdc3"
+ "version": "ef656564487425701068a7d9c3c1eabd3c928d94c1cd4afa23e75a8899accfea"
 }
