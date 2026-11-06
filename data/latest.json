@@ -12,12 +12,12 @@
  },
  "row": {
   "L1": 0,
-  "L2": 0,
+  "L2": 1,
   "L3": 0,
   "L4": 0,
   "L5": null,
-  "PU": 0,
-  "PU_B": 0,
+  "PU": 1,
+  "PU_B": 1,
   "S1": 0,
   "SM1_counter": 0,
   "SM1_event": "",
@@ -29,7 +29,7 @@
   "SM3_event": "",
   "SM3_state": 0,
   "SM4_angles": [
-   "1",
+   "0",
    "0",
    "-",
    "-",
@@ -38,21 +38,21 @@
   "SM4_counter": 0,
   "SM4_event": "",
   "SM4_n_available": 3,
-  "SM4_n_good": 1,
+  "SM4_n_good": 0,
   "SM4_state": 0,
   "W": 0,
   "W3": 0,
-  "chain_line": 3,
+  "chain_line": 4,
   "clock_freeze": "ok",
   "clock_start": "ok",
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "is_backfill": false,
   "ledger_pending": false,
   "links": {
-   "clock": "https://github.com/stonebridgelin/market-weather-site/tree/main/attest/clock/2026-11-04",
+   "clock": "https://github.com/stonebridgelin/market-weather-site/tree/main/attest/clock/2026-11-05",
    "day_list": "https://github.com/stonebridgelin/market-weather-site/blob/main/attest/day_list.csv",
-   "payload": "https://github.com/stonebridgelin/market-weather-site/blob/main/attest/rwarn_forward_payloads.jsonl#L3",
-   "tsa": "https://github.com/stonebridgelin/market-weather-site/tree/main/attest/tsa/2026-11-04"
+   "payload": "https://github.com/stonebridgelin/market-weather-site/blob/main/attest/rwarn_forward_payloads.jsonl#L4",
+   "tsa": "https://github.com/stonebridgelin/market-weather-site/tree/main/attest/tsa/2026-11-05"
   },
   "mr_A": 2,
   "mr_A_status": "ok",
@@ -60,23 +60,23 @@
   "mr_B_status": "ok",
   "mr_status": "ok",
   "n_available": 4,
-  "n_lit": 0,
-  "obs_oas": "2026-11-03",
-  "obs_spx": "2026-11-04",
-  "obs_vix": "2026-11-04",
+  "n_lit": 1,
+  "obs_oas": "2026-11-04",
+  "obs_spx": "2026-11-05",
+  "obs_vix": "2026-11-05",
   "on_time_local": true,
-  "payload_hash": "aff2ff1968eec7dc6b44f46876e819253c837011469e3917c91c2cdfee33cb1d",
+  "payload_hash": "b670ed6c1ccab1b6006cff96172842d3c106260943ad4102518ec35e20030edf",
   "receipts": [
    {
-    "conservative_time": "2026-11-04T23:05:07.000000+00:00",
+    "conservative_time": "2026-11-05T23:05:08.000000+00:00",
     "evidence": "ok",
-    "gen_time": "2026-11-04T23:05:06.000000+00:00",
+    "gen_time": "2026-11-05T23:05:07.000000+00:00",
     "tsa": "globalsign",
-    "tsr_file": "tsa/2026-11-04/globalsign_1.tsr",
+    "tsr_file": "tsa/2026-11-05/globalsign_1.tsr",
     "valid": "True"
    }
   ],
-  "spx_close": 7688.6201171875
+  "spx_close": 7353.72998046875
  },
- "version": "14c46ef413279d5079f70bd389262450e4a2e34b0851f7f0aa21c00a50550738"
+ "version": "e263b222ebee3282a7fd06876557a8e8141c2a100ad019e118d57aff57ad65b8"
 }
