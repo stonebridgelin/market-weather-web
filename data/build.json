@@ -2,7 +2,7 @@
  "T0": "2026-11-02",
  "contract": "t03-contract-1",
  "frontend_sha256": "39e44f332d0f1fa8d769fb8f1daa589378e00c4f709cd2f1f92ef73fb9f77116",
- "generated_at_et": "2026-11-07T12:12:16-05:00",
+ "generated_at_et": "2026-11-08T04:06:47-05:00",
  "generator_sha256": "95371b2493d5ce65159bc378371120a9993325fcf043e20677beecc877188dd1",
  "input_fingerprint": {
   "ledger": [
@@ -28,5 +28,5 @@
  "payload_lines": 4,
  "phase": "not_before_T0",
  "prefix_end_date": "2026-11-05",
- "version": "57d12b35f3a3515d1460d93fb51603c36ca104127cc58e2fb7a617f9b1c9fc46"
+ "version": "14e89cd72485a4105819756824ad640e1646597062921ac5bde007e2a87cf4c7"
 }
