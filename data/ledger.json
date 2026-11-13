@@ -209,7 +209,33 @@
    "date": "2026-11-11",
    "on_time_local": true,
    "payload_hash": "53f432c4e01d03c95fdeee5615e3c87aa0b4d87eae79ece058766a15749def4e"
+  },
+  {
+   "SM1_counter": 0,
+   "SM1_event": "",
+   "SM1_state": 1,
+   "SM2_counter": 0,
+   "SM2_event": "",
+   "SM2_state": 1,
+   "SM3_counter": 2,
+   "SM3_event": "",
+   "SM3_state": 1,
+   "SM4_angles": [
+    "0",
+    "0",
+    "-",
+    "-",
+    "0"
+   ],
+   "SM4_counter": 0,
+   "SM4_event": "",
+   "SM4_n_available": 3,
+   "SM4_n_good": 0,
+   "SM4_state": 1,
+   "date": "2026-11-12",
+   "on_time_local": true,
+   "payload_hash": "0524b255a04b22cf19d72b8d982c6ac77e276ada1e0b5b3a9930b8de8504a1bd"
   }
  ],
- "version": "e1ae2ab57157f2229fd3b8546adb1749ec149368d1757895bb57272f0012a075"
+ "version": "fdc647b95688dcae5ed1fafc7d18e47c8b1a90f31dae871cd94e40c5c890a37b"
 }

@@ -4,8 +4,8 @@
  "corporate_actions_sha256": "7483a4bb7bc1d61b332380dbc72ff5d33aa11f21a4aa2f59f60454b57c86f60a",
  "d_ref": "2026-11-11",
  "reason": null,
- "schema": "mw-stocks/1",
- "source_sha256": "7a6e2532957ffdf62bf1608eda8f609f68ab6d18c27b700e5ec96c65e87f950b",
+ "schema": "mw-stocks/2",
+ "source_sha256": "e59c363c6993c6f036e4cf8a05d4a4a0ea3c0b13b60badc6a069e38ffd7799ae",
  "stocks": [
   {
    "above_ma200": true,
@@ -22,11 +22,12 @@
    "ret_22d": 0.042994995482375176,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": 3,
+   "temp_window_n": 756,
    "ticker": "AAPL"
   },
   {
@@ -44,11 +45,12 @@
    "ret_22d": 0.05570825886392816,
    "sector_etf": "XLV",
    "sector_temp": 4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 3,
+   "temp_window_n": 756,
    "ticker": "ABBV"
   },
   {
@@ -66,11 +68,12 @@
    "ret_22d": 0.07982464941553613,
    "sector_etf": "XLV",
    "sector_temp": 4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 2,
+   "temp_window_n": 756,
    "ticker": "ABT"
   },
   {
@@ -88,11 +91,12 @@
    "ret_22d": 0.18998042972195073,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 3,
+   "temp_window_n": 756,
    "ticker": "ACN"
   },
   {
@@ -110,11 +114,12 @@
    "ret_22d": -0.0022675455090148677,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 0,
+   "temp_window_n": 756,
    "ticker": "ADBE"
   },
   {
@@ -132,11 +137,12 @@
    "ret_22d": -0.20591725616223167,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 1,
    "temp_score": -3,
+   "temp_window_n": 756,
    "ticker": "AMAT"
   },
   {
@@ -154,11 +160,12 @@
    "ret_22d": -0.0695677949981246,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 2,
    "temp_score": 0,
+   "temp_window_n": 756,
    "ticker": "AMD"
   },
   {
@@ -176,11 +183,12 @@
    "ret_22d": 0.12103354441379266,
    "sector_etf": "XLV",
    "sector_temp": 4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 3,
+   "temp_window_n": 756,
    "ticker": "AMGN"
   },
   {
@@ -203,6 +211,7 @@
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 3,
+   "temp_window_n": 756,
    "ticker": "AMT"
   },
   {
@@ -220,11 +229,12 @@
    "ret_22d": 0.02558476738592419,
    "sector_etf": "XLY",
    "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 0,
+   "temp_window_n": 756,
    "ticker": "AMZN"
   },
   {
@@ -242,11 +252,12 @@
    "ret_22d": -0.06733693037859301,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 2,
    "temp_score": -1,
+   "temp_window_n": 756,
    "ticker": "ANET"
   },
   {
@@ -264,11 +275,12 @@
    "ret_22d": -0.026809149130580745,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 1,
    "temp_score": -3,
+   "temp_window_n": 756,
    "ticker": "AVGO"
   },
   {
@@ -285,12 +297,13 @@
    "pct_vs_ma50": 0.024398120916184762,
    "ret_22d": 0.03717133700651898,
    "sector_etf": "XLF",
-   "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": 1,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": -1,
+   "temp_window_n": 756,
    "ticker": "AXP"
   },
   {
@@ -307,12 +320,13 @@
    "pct_vs_ma50": -0.08302480204803664,
    "ret_22d": -0.07894462645840206,
    "sector_etf": "XLI",
-   "sector_temp": -2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": -3,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -3,
+   "temp_window_n": 756,
    "ticker": "BA"
   },
   {
@@ -329,12 +343,13 @@
    "pct_vs_ma50": -0.07096115698217731,
    "ret_22d": -0.07163802731653046,
    "sector_etf": "XLF",
-   "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": 1,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -4,
+   "temp_window_n": 756,
    "ticker": "BAC"
   },
   {
@@ -352,11 +367,12 @@
    "ret_22d": 0.011235334976809952,
    "sector_etf": "XLY",
    "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": -2,
+   "temp_window_n": 756,
    "ticker": "BKNG"
   },
   {
@@ -373,12 +389,13 @@
    "pct_vs_ma50": 0.10591229159583815,
    "ret_22d": 0.13136579164101292,
    "sector_etf": "XLF",
-   "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": 1,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 3,
+   "temp_window_n": 756,
    "ticker": "BLK"
   },
   {
@@ -396,11 +413,12 @@
    "ret_22d": 0.09256682610042555,
    "sector_etf": "XLV",
    "sector_temp": 4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": 2,
+   "temp_window_n": 756,
    "ticker": "BMY"
   },
   {
@@ -417,12 +435,13 @@
    "pct_vs_ma50": 0.023316122624148727,
    "ret_22d": 0.07345874230406024,
    "sector_etf": "XLF",
-   "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": 1,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -2,
+   "temp_window_n": 756,
    "ticker": "BNY"
   },
   {
@@ -439,12 +458,13 @@
    "pct_vs_ma50": 0.1177536485814712,
    "ret_22d": 0.1364760780146308,
    "sector_etf": "XLF",
-   "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": 1,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": 4,
+   "temp_window_n": 756,
    "ticker": "BRK.B"
   },
   {
@@ -461,12 +481,13 @@
    "pct_vs_ma50": -0.027713315888963197,
    "ret_22d": -0.053319873779377636,
    "sector_etf": "XLF",
-   "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": 1,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": -4,
+   "temp_window_n": 756,
    "ticker": "C"
   },
   {
@@ -483,12 +504,13 @@
    "pct_vs_ma50": -0.19477126558828572,
    "ret_22d": -0.24562241519760297,
    "sector_etf": "XLI",
-   "sector_temp": -2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": -3,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -4,
+   "temp_window_n": 756,
    "ticker": "CAT"
   },
   {
@@ -511,6 +533,7 @@
    "status_date": null,
    "temp_change_5d": 1,
    "temp_score": 3,
+   "temp_window_n": 756,
    "ticker": "CMCSA"
   },
   {
@@ -527,12 +550,13 @@
    "pct_vs_ma50": -0.02724081395712319,
    "ret_22d": -0.02003578995488564,
    "sector_etf": "XLF",
-   "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": 1,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -2,
    "temp_score": -3,
+   "temp_window_n": 756,
    "ticker": "COF"
   },
   {
@@ -550,11 +574,12 @@
    "ret_22d": 0.002180888754596211,
    "sector_etf": "XLE",
    "sector_temp": -1,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 1,
+   "temp_window_n": 756,
    "ticker": "COP"
   },
   {
@@ -572,11 +597,12 @@
    "ret_22d": 0.13523448499342083,
    "sector_etf": "XLP",
    "sector_temp": 3,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 1,
    "temp_score": 3,
+   "temp_window_n": 756,
    "ticker": "COST"
   },
   {
@@ -594,11 +620,12 @@
    "ret_22d": -0.06801472207014392,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": 0,
+   "temp_window_n": 756,
    "ticker": "CRM"
   },
   {
@@ -616,11 +643,12 @@
    "ret_22d": -0.12640883184136575,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -3,
+   "temp_window_n": 756,
    "ticker": "CSCO"
   },
   {
@@ -638,11 +666,12 @@
    "ret_22d": 0.027468517206131526,
    "sector_etf": "XLV",
    "sector_temp": 4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 2,
    "temp_score": -1,
+   "temp_window_n": 756,
    "ticker": "CVS"
   },
   {
@@ -660,11 +689,12 @@
    "ret_22d": -0.008000005677689215,
    "sector_etf": "XLE",
    "sector_temp": -1,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 0,
+   "temp_window_n": 756,
    "ticker": "CVX"
   },
   {
@@ -681,12 +711,13 @@
    "pct_vs_ma50": 0.03466569145556475,
    "ret_22d": 0.09348574321913539,
    "sector_etf": "XLI",
-   "sector_temp": -2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": -3,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 1,
    "temp_score": 2,
+   "temp_window_n": 756,
    "ticker": "DE"
   },
   {
@@ -704,11 +735,12 @@
    "ret_22d": -0.3512205497426315,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -3,
+   "temp_window_n": 756,
    "ticker": "DELL"
   },
   {
@@ -726,11 +758,12 @@
    "ret_22d": 0.0637884304024341,
    "sector_etf": "XLV",
    "sector_temp": 4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": 3,
+   "temp_window_n": 756,
    "ticker": "DHR"
   },
   {
@@ -753,6 +786,7 @@
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": 4,
+   "temp_window_n": 756,
    "ticker": "DIS"
   },
   {
@@ -770,11 +804,12 @@
    "ret_22d": 0.09414565044784529,
    "sector_etf": "XLU",
    "sector_temp": 0,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 2,
+   "temp_window_n": 756,
    "ticker": "DUK"
   },
   {
@@ -791,12 +826,13 @@
    "pct_vs_ma50": 0.05148405548544299,
    "ret_22d": 0.02831460454651058,
    "sector_etf": "XLI",
-   "sector_temp": -2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": -3,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 2,
+   "temp_window_n": 756,
    "ticker": "EMR"
   },
   {
@@ -813,12 +849,13 @@
    "pct_vs_ma50": 0.06729446054913257,
    "ret_22d": 0.10402762465729976,
    "sector_etf": "XLI",
-   "sector_temp": -2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": -3,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 2,
+   "temp_window_n": 756,
    "ticker": "FDX"
   },
   {
@@ -835,12 +872,13 @@
    "pct_vs_ma50": 0.0540172404516317,
    "ret_22d": 0.09467599885120093,
    "sector_etf": "XLI",
-   "sector_temp": -2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": -3,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": 1,
+   "temp_window_n": 756,
    "ticker": "GD"
   },
   {
@@ -857,12 +895,13 @@
    "pct_vs_ma50": 0.08957553120697925,
    "ret_22d": 0.11051705460296923,
    "sector_etf": "XLI",
-   "sector_temp": -2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": -3,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 1,
    "temp_score": 0,
+   "temp_window_n": 756,
    "ticker": "GE"
   },
   {
@@ -879,12 +918,13 @@
    "pct_vs_ma50": -0.11920560381951906,
    "ret_22d": -0.18871238915199762,
    "sector_etf": "XLI",
-   "sector_temp": -2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": -3,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -4,
+   "temp_window_n": 461,
    "ticker": "GEV"
   },
   {
@@ -902,11 +942,12 @@
    "ret_22d": 0.1282989030874635,
    "sector_etf": "XLV",
    "sector_temp": 4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 3,
+   "temp_window_n": 756,
    "ticker": "GILD"
   },
   {
@@ -924,11 +965,12 @@
    "ret_22d": 0.07927641813230157,
    "sector_etf": "XLY",
    "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -2,
    "temp_score": 1,
+   "temp_window_n": 756,
    "ticker": "GM"
   },
   {
@@ -951,6 +993,7 @@
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -4,
+   "temp_window_n": 756,
    "ticker": "GOOG"
   },
   {
@@ -973,6 +1016,7 @@
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -4,
+   "temp_window_n": 756,
    "ticker": "GOOGL"
   },
   {
@@ -989,12 +1033,13 @@
    "pct_vs_ma50": 0.0007374751022570791,
    "ret_22d": 0.036758191065332735,
    "sector_etf": "XLF",
-   "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": 1,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -3,
+   "temp_window_n": 756,
    "ticker": "GS"
   },
   {
@@ -1012,11 +1057,12 @@
    "ret_22d": 0.20882941112477127,
    "sector_etf": "XLY",
    "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": 3,
+   "temp_window_n": 756,
    "ticker": "HD"
   },
   {
@@ -1034,11 +1080,12 @@
    "ret_22d": 0.1009404410462651,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": -1,
+   "temp_window_n": 756,
    "ticker": "IBM"
   },
   {
@@ -1056,11 +1103,12 @@
    "ret_22d": -0.383325101717107,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -3,
+   "temp_window_n": 756,
    "ticker": "INTC"
   },
   {
@@ -1078,11 +1126,12 @@
    "ret_22d": 0.11977523966058534,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 0,
+   "temp_window_n": 756,
    "ticker": "INTU"
   },
   {
@@ -1100,11 +1149,12 @@
    "ret_22d": 0.051187876206708616,
    "sector_etf": "XLV",
    "sector_temp": 4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -2,
    "temp_score": 0,
+   "temp_window_n": 756,
    "ticker": "ISRG"
   },
   {
@@ -1122,11 +1172,12 @@
    "ret_22d": 0.06324647169808029,
    "sector_etf": "XLV",
    "sector_temp": 4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": 2,
+   "temp_window_n": 756,
    "ticker": "JNJ"
   },
   {
@@ -1143,12 +1194,13 @@
    "pct_vs_ma50": 0.009319606726199359,
    "ret_22d": 0.02719122700386767,
    "sector_etf": "XLF",
-   "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": 1,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": -1,
+   "temp_window_n": 756,
    "ticker": "JPM"
   },
   {
@@ -1166,11 +1218,12 @@
    "ret_22d": 0.0866466054122903,
    "sector_etf": "XLP",
    "sector_temp": 3,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": 4,
+   "temp_window_n": 756,
    "ticker": "KO"
   },
   {
@@ -1187,12 +1240,13 @@
    "pct_vs_ma50": 0.07769257742344893,
    "ret_22d": 0.0804349670637472,
    "sector_etf": "XLB",
-   "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": 1,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": 2,
+   "temp_window_n": 756,
    "ticker": "LIN"
   },
   {
@@ -1210,11 +1264,12 @@
    "ret_22d": 0.21534393549643704,
    "sector_etf": "XLV",
    "sector_temp": 4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": 4,
+   "temp_window_n": 756,
    "ticker": "LLY"
   },
   {
@@ -1231,12 +1286,13 @@
    "pct_vs_ma50": 0.10750924710467724,
    "ret_22d": 0.1917831952287936,
    "sector_etf": "XLI",
-   "sector_temp": -2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": -3,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": 2,
+   "temp_window_n": 756,
    "ticker": "LMT"
   },
   {
@@ -1254,11 +1310,12 @@
    "ret_22d": 0.2559833469006829,
    "sector_etf": "XLY",
    "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": 2,
+   "temp_window_n": 756,
    "ticker": "LOW"
   },
   {
@@ -1276,11 +1333,12 @@
    "ret_22d": -0.23801522566505084,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -4,
+   "temp_window_n": 756,
    "ticker": "LRCX"
   },
   {
@@ -1297,12 +1355,13 @@
    "pct_vs_ma50": 0.10708385470240422,
    "ret_22d": 0.11030256037079167,
    "sector_etf": "XLF",
-   "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": 1,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": 4,
+   "temp_window_n": 756,
    "ticker": "MA"
   },
   {
@@ -1320,11 +1379,12 @@
    "ret_22d": 0.16613619737109797,
    "sector_etf": "XLY",
    "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": 1,
+   "temp_window_n": 756,
    "ticker": "MCD"
   },
   {
@@ -1342,11 +1402,12 @@
    "ret_22d": 0.07946263084584304,
    "sector_etf": "XLP",
    "sector_temp": 3,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": 4,
+   "temp_window_n": 756,
    "ticker": "MDLZ"
   },
   {
@@ -1364,11 +1425,12 @@
    "ret_22d": 0.10529751194432224,
    "sector_etf": "XLV",
    "sector_temp": 4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 3,
+   "temp_window_n": 756,
    "ticker": "MDT"
   },
   {
@@ -1391,6 +1453,7 @@
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -3,
+   "temp_window_n": 756,
    "ticker": "META"
   },
   {
@@ -1407,12 +1470,13 @@
    "pct_vs_ma50": 0.11107976318401924,
    "ret_22d": 0.1739698278286208,
    "sector_etf": "XLI",
-   "sector_temp": -2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": -3,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 3,
+   "temp_window_n": 756,
    "ticker": "MMM"
   },
   {
@@ -1430,11 +1494,12 @@
    "ret_22d": 0.07996086289022686,
    "sector_etf": "XLP",
    "sector_temp": 3,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 2,
+   "temp_window_n": 756,
    "ticker": "MO"
   },
   {
@@ -1452,11 +1517,12 @@
    "ret_22d": 0.011894092566771874,
    "sector_etf": "XLV",
    "sector_temp": 4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 0,
+   "temp_window_n": 756,
    "ticker": "MRK"
   },
   {
@@ -1473,12 +1539,13 @@
    "pct_vs_ma50": -0.01089764618408795,
    "ret_22d": 0.009364117389705884,
    "sector_etf": "XLF",
-   "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": 1,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": -3,
+   "temp_window_n": 756,
    "ticker": "MS"
   },
   {
@@ -1496,11 +1563,12 @@
    "ret_22d": -0.03700457084104325,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -3,
    "temp_score": 0,
+   "temp_window_n": 756,
    "ticker": "MSFT"
   },
   {
@@ -1518,11 +1586,12 @@
    "ret_22d": -0.17957500970987872,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -3,
+   "temp_window_n": 756,
    "ticker": "MU"
   },
   {
@@ -1540,11 +1609,12 @@
    "ret_22d": 0.09527443031474903,
    "sector_etf": "XLU",
    "sector_temp": 0,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 1,
+   "temp_window_n": 756,
    "ticker": "NEE"
   },
   {
@@ -1567,6 +1637,7 @@
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -3,
+   "temp_window_n": 756,
    "ticker": "NFLX"
   },
   {
@@ -1584,11 +1655,12 @@
    "ret_22d": -0.26767391125631423,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -2,
+   "temp_window_n": 756,
    "ticker": "NOW"
   },
   {
@@ -1606,11 +1678,12 @@
    "ret_22d": -0.23237013916025961,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -4,
+   "temp_window_n": 756,
    "ticker": "NVDA"
   },
   {
@@ -1628,11 +1701,12 @@
    "ret_22d": -0.06557969682555187,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 1,
    "temp_score": -2,
+   "temp_window_n": 756,
    "ticker": "ORCL"
   },
   {
@@ -1650,11 +1724,12 @@
    "ret_22d": -0.1717554110834968,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": -2,
+   "temp_window_n": 756,
    "ticker": "PANW"
   },
   {
@@ -1672,11 +1747,12 @@
    "ret_22d": 0.13624883244908914,
    "sector_etf": "XLP",
    "sector_temp": 3,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 1,
    "temp_score": 3,
+   "temp_window_n": 756,
    "ticker": "PEP"
   },
   {
@@ -1694,11 +1770,12 @@
    "ret_22d": 0.052143627958441074,
    "sector_etf": "XLV",
    "sector_temp": 4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 3,
+   "temp_window_n": 756,
    "ticker": "PFE"
   },
   {
@@ -1716,11 +1793,12 @@
    "ret_22d": 0.10185363144196136,
    "sector_etf": "XLP",
    "sector_temp": 3,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": 4,
+   "temp_window_n": 756,
    "ticker": "PG"
   },
   {
@@ -1738,11 +1816,12 @@
    "ret_22d": -0.17511964642830413,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -3,
+   "temp_window_n": 756,
    "ticker": "PLTR"
   },
   {
@@ -1760,11 +1839,12 @@
    "ret_22d": -0.027970266814279054,
    "sector_etf": "XLP",
    "sector_temp": 3,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -4,
    "temp_score": -1,
+   "temp_window_n": 756,
    "ticker": "PM"
   },
   {
@@ -1782,11 +1862,12 @@
    "ret_22d": 0.012268616283297007,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -1,
+   "temp_window_n": 756,
    "ticker": "QCOM"
   },
   {
@@ -1803,12 +1884,13 @@
    "pct_vs_ma50": 0.043392319413349645,
    "ret_22d": 0.07837774208183634,
    "sector_etf": "XLI",
-   "sector_temp": -2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": -3,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -1,
+   "temp_window_n": 756,
    "ticker": "RTX"
   },
   {
@@ -1826,11 +1908,12 @@
    "ret_22d": 0.19070319969148453,
    "sector_etf": "XLY",
    "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": 4,
+   "temp_window_n": 756,
    "ticker": "SBUX"
   },
   {
@@ -1847,12 +1930,13 @@
    "pct_vs_ma50": -0.04835951882224576,
    "ret_22d": -0.04409642372711864,
    "sector_etf": "XLF",
-   "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": 1,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -3,
+   "temp_window_n": 756,
    "ticker": "SCHW"
   },
   {
@@ -1870,11 +1954,12 @@
    "ret_22d": -0.3426542654766125,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": null,
    "temp_score": null,
+   "temp_window_n": 240,
    "ticker": "SNDK"
   },
   {
@@ -1892,11 +1977,12 @@
    "ret_22d": 0.07812494658591151,
    "sector_etf": "XLU",
    "sector_temp": 0,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": 1,
+   "temp_window_n": 756,
    "ticker": "SO"
   },
   {
@@ -1919,6 +2005,7 @@
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -3,
+   "temp_window_n": 756,
    "ticker": "T"
   },
   {
@@ -1936,11 +2023,12 @@
    "ret_22d": 0.08376122335748626,
    "sector_etf": "XLV",
    "sector_temp": 4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": 3,
+   "temp_window_n": 756,
    "ticker": "TMO"
   },
   {
@@ -1963,6 +2051,7 @@
    "status_date": null,
    "temp_change_5d": 2,
    "temp_score": 0,
+   "temp_window_n": 756,
    "ticker": "TMUS"
   },
   {
@@ -1980,11 +2069,12 @@
    "ret_22d": 0.033886193159163636,
    "sector_etf": "XLY",
    "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 1,
    "temp_score": 1,
+   "temp_window_n": 756,
    "ticker": "TSLA"
   },
   {
@@ -2002,11 +2092,12 @@
    "ret_22d": 0.10518680151583149,
    "sector_etf": "XLK",
    "sector_temp": -4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 2,
+   "temp_window_n": 756,
    "ticker": "TXN"
   },
   {
@@ -2023,12 +2114,13 @@
    "pct_vs_ma50": 0.012775771494107246,
    "ret_22d": -0.011468527200338863,
    "sector_etf": "XLI",
-   "sector_temp": -2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": -3,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": -1,
+   "temp_window_n": 756,
    "ticker": "UBER"
   },
   {
@@ -2046,11 +2138,12 @@
    "ret_22d": 0.06451446194787991,
    "sector_etf": "XLV",
    "sector_temp": 4,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 2,
+   "temp_window_n": 756,
    "ticker": "UNH"
   },
   {
@@ -2067,12 +2160,13 @@
    "pct_vs_ma50": 0.05367160170270435,
    "ret_22d": 0.07294803243618442,
    "sector_etf": "XLI",
-   "sector_temp": -2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": -3,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 3,
+   "temp_window_n": 756,
    "ticker": "UNP"
   },
   {
@@ -2089,12 +2183,13 @@
    "pct_vs_ma50": 0.12142055131790008,
    "ret_22d": 0.17946298791236304,
    "sector_etf": "XLI",
-   "sector_temp": -2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": -3,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": 0,
    "temp_score": 4,
+   "temp_window_n": 756,
    "ticker": "UPS"
   },
   {
@@ -2111,12 +2206,13 @@
    "pct_vs_ma50": 0.02235402586236379,
    "ret_22d": 0.05712300067205667,
    "sector_etf": "XLF",
-   "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": 1,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 0,
+   "temp_window_n": 756,
    "ticker": "USB"
   },
   {
@@ -2133,12 +2229,13 @@
    "pct_vs_ma50": 0.0970604482142381,
    "ret_22d": 0.09521592193213002,
    "sector_etf": "XLF",
-   "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": 1,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 3,
+   "temp_window_n": 756,
    "ticker": "V"
   },
   {
@@ -2161,6 +2258,7 @@
    "status_date": null,
    "temp_change_5d": 1,
    "temp_score": 0,
+   "temp_window_n": 756,
    "ticker": "VZ"
   },
   {
@@ -2177,12 +2275,13 @@
    "pct_vs_ma50": 0.02285616736857432,
    "ret_22d": 0.0358987363608958,
    "sector_etf": "XLF",
-   "sector_temp": 2,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp": 1,
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": -1,
+   "temp_window_n": 756,
    "ticker": "WFC"
   },
   {
@@ -2200,11 +2299,12 @@
    "ret_22d": 0.11133707228534062,
    "sector_etf": "XLP",
    "sector_temp": 3,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": 1,
+   "temp_window_n": 756,
    "ticker": "WMT"
   },
   {
@@ -2222,11 +2322,12 @@
    "ret_22d": -0.03160027519889619,
    "sector_etf": "XLE",
    "sector_temp": -1,
-   "sector_temp_date": "2026-11-11",
+   "sector_temp_date": "2026-11-12",
    "status": "ok",
    "status_date": null,
    "temp_change_5d": -1,
    "temp_score": -1,
+   "temp_window_n": 756,
    "ticker": "XOM"
   }
  ],
