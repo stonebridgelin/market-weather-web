@@ -43,7 +43,7 @@
  "model_version": "wx2_20261024_01",
  "reason": null,
  "schema": "mw-sectors/1",
- "source_sha256": "c10b0b46d5d48b615713b6db72d179ed8c9cced1042e84e0f555ecbcc0ad1f33",
+ "source_sha256": "3ed96d8fe574048b4ce2ef8380a22a941590ca3e01ff07c2afa6951feab3925c",
  "units": [
   {
    "above_ma200": true,
