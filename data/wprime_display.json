@@ -7227,9 +7227,22 @@
    "status": "computed",
    "tier": "red",
    "w_prime": 1
+  },
+  {
+   "a_prime": 2,
+   "commit": "874cadfbb04f5c23f2e03f95712bebf00f1046e0c20844822ba06cddc407b94e",
+   "date": "2026-11-17",
+   "g2": 0,
+   "n_prime": null,
+   "phase": "live",
+   "reason": null,
+   "reason_text": null,
+   "status": "computed",
+   "tier": "missing",
+   "w_prime": null
   }
  ],
  "schema": "mw-wprime-display/2",
  "switch_record_date": "2026-11-16",
- "version": "5a7b351147c1930848824bcd2e55e1a48ff644a7b05e0a35a5142d08f2c50db6"
+ "version": "32f95425e17cd4f195d86165dabde6105343cd620c81abb5a6623070ee767690"
 }
