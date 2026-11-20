@@ -28,9 +28,9 @@
   "vol_now_22d": 0.2199
  },
  "market": {
-  "credit_date": "2026-11-17",
-  "hy_oas": 3.34,
-  "ig_oas": 0.9,
+  "credit_date": "2026-11-18",
+  "hy_oas": 3.43,
+  "ig_oas": 0.92,
   "sectors_above_ma200": 5,
   "sectors_above_ma50": 5,
   "sectors_total": 9,
@@ -43,7 +43,7 @@
  "model_version": "wx2_20261024_01",
  "reason": null,
  "schema": "mw-sectors/1",
- "source_sha256": "e697f2ae151b7be437e4e8a51df08e66b4a6220da5083743e1c5dce709360c67",
+ "source_sha256": "af2846ecb3574dc87caa55136e478bca8c43152ad3293934e40dfe892b19fef2",
  "units": [
   {
    "above_ma200": true,

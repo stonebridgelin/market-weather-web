@@ -1,9 +1,9 @@
 {
  "as_of": "2026-11-18",
  "available": true,
- "latest_sha256": "e697f2ae151b7be437e4e8a51df08e66b4a6220da5083743e1c5dce709360c67",
+ "latest_sha256": "af2846ecb3574dc87caa55136e478bca8c43152ad3293934e40dfe892b19fef2",
  "schema": "mw-sectors-history/1",
- "source_sha256": "e89ab29727bfdfa650cbcff11dff817dad9046f4ab022f3300c10700718c0ca7",
+ "source_sha256": "e471fdc2cd15ed4d2c38bfd1d01d3b9c83ecb25e55d621c0ca1c7761fa82b1f8",
  "units": {
   "IWM": [
    {
