@@ -365,7 +365,33 @@
    "date": "2026-11-19",
    "on_time_local": true,
    "payload_hash": "7b666a8af8fe1c7709c8149810b047c9f188b6edc975539afb6210e0685a70e8"
+  },
+  {
+   "SM1_counter": 0,
+   "SM1_event": "",
+   "SM1_state": 1,
+   "SM2_counter": 0,
+   "SM2_event": "",
+   "SM2_state": 1,
+   "SM3_counter": 0,
+   "SM3_event": "",
+   "SM3_state": 1,
+   "SM4_angles": [
+    "0",
+    "0",
+    "-",
+    "-",
+    "0"
+   ],
+   "SM4_counter": 0,
+   "SM4_event": "",
+   "SM4_n_available": 3,
+   "SM4_n_good": 0,
+   "SM4_state": 1,
+   "date": "2026-11-20",
+   "on_time_local": true,
+   "payload_hash": "cfa7b500a37d3c5f39110cdba0d8221de8680212fb3446c937f4c9c66b17a5ad"
   }
  ],
- "version": "9f14261b3a3265e6d71b0c062c069f18054c71f92dc369eca4b9a85f8698eda4"
+ "version": "a92bf5fc67509c1010a7914988640e3f5249ef81ccfa3d9cc3e9f59e9ff11950"
 }

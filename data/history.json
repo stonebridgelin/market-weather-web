@@ -952,7 +952,75 @@
     }
    ],
    "spx_close": 7175.830078125
+  },
+  {
+   "L1": 1,
+   "L2": 1,
+   "L3": 1,
+   "L4": 0,
+   "L5": null,
+   "PU": 1,
+   "PU_B": 1,
+   "S1": 1,
+   "SM1_counter": 0,
+   "SM1_event": "",
+   "SM1_state": 1,
+   "SM2_counter": 0,
+   "SM2_event": "",
+   "SM2_state": 1,
+   "SM3_counter": 0,
+   "SM3_event": "",
+   "SM3_state": 1,
+   "SM4_angles": [
+    "0",
+    "0",
+    "-",
+    "-",
+    "0"
+   ],
+   "SM4_counter": 0,
+   "SM4_event": "",
+   "SM4_n_available": 3,
+   "SM4_n_good": 0,
+   "SM4_state": 1,
+   "W": 1,
+   "W3": 1,
+   "chain_line": 15,
+   "clock_freeze": "ok",
+   "clock_start": "ok",
+   "date": "2026-11-20",
+   "is_backfill": false,
+   "ledger_pending": false,
+   "links": {
+    "clock": "https://github.com/stonebridgelin/market-weather-site/tree/main/attest/clock/2026-11-20",
+    "day_list": "https://github.com/stonebridgelin/market-weather-site/blob/main/attest/day_list.csv",
+    "payload": "https://github.com/stonebridgelin/market-weather-site/blob/main/attest/rwarn_forward_payloads.jsonl#L15",
+    "tsa": "https://github.com/stonebridgelin/market-weather-site/tree/main/attest/tsa/2026-11-20"
+   },
+   "mr_A": 2,
+   "mr_A_status": "ok",
+   "mr_B": 2,
+   "mr_B_status": "ok",
+   "mr_status": "ok",
+   "n_available": 4,
+   "n_lit": 3,
+   "obs_oas": "2026-11-19",
+   "obs_spx": "2026-11-20",
+   "obs_vix": "2026-11-20",
+   "on_time_local": true,
+   "payload_hash": "cfa7b500a37d3c5f39110cdba0d8221de8680212fb3446c937f4c9c66b17a5ad",
+   "receipts": [
+    {
+     "conservative_time": "2026-11-20T23:05:16.000000+00:00",
+     "evidence": "ok",
+     "gen_time": "2026-11-20T23:05:15.000000+00:00",
+     "tsa": "globalsign",
+     "tsr_file": "tsa/2026-11-20/globalsign_1.tsr",
+     "valid": "True"
+    }
+   ],
+   "spx_close": 6910.39013671875
   }
  ],
- "version": "9f14261b3a3265e6d71b0c062c069f18054c71f92dc369eca4b9a85f8698eda4"
+ "version": "a92bf5fc67509c1010a7914988640e3f5249ef81ccfa3d9cc3e9f59e9ff11950"
 }
