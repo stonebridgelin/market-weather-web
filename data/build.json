@@ -2,7 +2,7 @@
  "T0": "2026-11-02",
  "contract": "t03-contract-1",
  "frontend_sha256": "f6c04cfaa59d434753fecc15b8144b7c6f5223a446695c3bf24b678e8dcde065",
- "generated_at_et": "2026-11-23T22:40:06-05:00",
+ "generated_at_et": "2026-11-24T22:40:05-05:00",
  "generator_sha256": "037759c44445fc93291b241f8d5c15cf50a2cedffa84f0f300b6729be48ad07a",
  "input_fingerprint": {
   "ledger": [
@@ -14,21 +14,21 @@
    "7c20cbfdaf06cbf1ebf5f2dbd8775daf9fbe4b7d2bf3a5ebdb3d16f33a369485"
   ],
   "payloads": [
-   51932,
-   "5188583a954012fda4089120155bccbe73e164e946269c38f5ec61b7897d0c05"
+   54231,
+   "952f106c214aba0cb4d1fbfd762783084b5526f624f0a8860f2d296746317362"
   ],
   "receipts": [
    5451,
    "d5c2163c58f5a56516d98007d3a3599d7455e5f07058c6f6d97bae1f1cd41410"
   ]
  },
- "last_payload_hash": "e0727cf07c02b8a542d53a9f6c831e2a71ee2f7bee12a541f972f84119f2e3f6",
- "latest_record_date": "2026-11-23",
+ "last_payload_hash": "cff29e865fe0c319880b996b556884ee87efa7615031cc13bd03dde75a7ed9d4",
+ "latest_record_date": "2026-11-24",
  "ledger_rows_published": 16,
- "payload_lines": 16,
+ "payload_lines": 17,
  "phase": "not_before_T0",
  "prefix_end_date": "2026-11-23",
- "version": "4be7a2bdc392b2b26a28fe599176a63e902779031fd7f2316c0f50c3d912122d",
- "wprime_display_sha256": "4291264185d3b6a57604f8cbeaeb678333d871cbc161b95c5123500220ee8ee8",
+ "version": "d5b4d1db8248017861eb9d7a72c96c623f9c61d60906c6e20063b4daa2dea7b5",
+ "wprime_display_sha256": "45d66349f1a12aeacc819e6e4b6c35b8a409dd0431099605bbdc78b6c341a021",
  "wprime_launch_date": "2026-11-16"
 }
