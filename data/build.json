@@ -2,33 +2,33 @@
  "T0": "2026-11-02",
  "contract": "t03-contract-1",
  "frontend_sha256": "f6c04cfaa59d434753fecc15b8144b7c6f5223a446695c3bf24b678e8dcde065",
- "generated_at_et": "2026-11-26T22:40:06-05:00",
+ "generated_at_et": "2026-11-27T22:40:09-05:00",
  "generator_sha256": "f3d7d960144303cacaf929f9c7f6b9e831242c87daa81041fe77e8ed2cbf9d24",
  "input_fingerprint": {
   "ledger": [
-   2290,
-   "d40d9e8b4de54e5136ba351145d0daf159573413e6fc8797d0f417e49543be9f"
+   2405,
+   "c347b0712df49b8781e4640469988eccea3b452a9c249f421c20c719cf1b9ad7"
   ],
   "params": [
    4047,
    "7c20cbfdaf06cbf1ebf5f2dbd8775daf9fbe4b7d2bf3a5ebdb3d16f33a369485"
   ],
   "payloads": [
-   57845,
-   "b702bb131ed2c246d7bb1dbdeeaff14dbb5923327c487f9f9cf11e269ed85768"
+   61456,
+   "3af92eb01323b8bce0fb5f73a71730ebba22845029a196178dd7b903c6db0a68"
   ],
   "receipts": [
-   6117,
-   "f25c2f71c87a505488bae47a43ae826eb264171026ab3fa1e33fb4a0b507ccce"
+   6450,
+   "fee95eb88833c5f4a3f2f0844d1a6bd738543ae2c04d2dbe43ef7fcd4ba25bf2"
   ]
  },
- "last_payload_hash": "c1603169c4081cd12e966e310612aea73906b7ad0053e5aca390c1e75e647c6f",
- "latest_record_date": "2026-11-25",
- "ledger_rows_published": 18,
- "payload_lines": 18,
+ "last_payload_hash": "b1ec7f76bca21f4ea11dac1b2f0c9030bfde14ef700a869063be3199671f838f",
+ "latest_record_date": "2026-11-27",
+ "ledger_rows_published": 19,
+ "payload_lines": 19,
  "phase": "not_before_T0",
- "prefix_end_date": "2026-11-25",
- "version": "81996d0fe9646ae554f1e6f0f82be2404d701194f10838395224f720ea503529",
- "wprime_display_sha256": "a729734aa252caeaf3e185529989c460e51a5c5644ea53e39e8da948e3d467e3",
+ "prefix_end_date": "2026-11-27",
+ "version": "27c68df4b8a90324dcbff376ecbd7c926e279b318c50d072fff617c1e373ae6a",
+ "wprime_display_sha256": "11ddd0762fc6df2c19add828f4de93bdd439bfccbb7d3be4332608eaff03f0c1",
  "wprime_launch_date": "2026-11-16"
 }
